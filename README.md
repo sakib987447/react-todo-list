@@ -9,7 +9,7 @@ It also includes **Dark Mode**, **LocalStorage persistence**, **Toast Notificati
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](YOUR_VERCEL_LINK)**
+🔗 **[View Live Demo](https://react-todo-list-five-olive.vercel.app/)**
 
 > Replace `YOUR_VERCEL_LINK` with your deployed Vercel URL.
 
